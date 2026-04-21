@@ -1,16 +1,26 @@
-## Hi there 👋
+# hey, i'm duha 👋
 
-<!--
-**duhaSHEhadeh/duhaSHEhadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## who am i?
+computer engineering student @ birzeit university  at my fourth year ⊙﹏⊙∥
+i like building things that actually make sense in real life, not just for grades  
+into tech, creativity, and random ideas that turn into projects  ¯\_( ͡° ͜ʖ ͡°)_/¯
 
-Here are some ideas to get you started:
+## what i'm currently working on
+-yousafe → a safety-focused app with an AI-driven interactive experience (its very interesting)(. ❛ ᴗ ❛.)
+-building mobile apps with flutter
+-improving my systems thinking & problem solving
+-Game development training 
+## tools i use
+c / c++ / python / dart  
+flutter  
+git & linux  
+verilog  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## how to reach me
+email: duhashehadeh2@gmail.com
+linkedin: https://www.linkedin.com/in/duha-shehadeh04/
+
+---
+
+still learning, still building, still figuring things out
